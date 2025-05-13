@@ -1,0 +1,21 @@
+EXIT                 :   [ESC]        :   Exit NLike-FileManager.
+SWITCH_TAB           :   [TAB]        :   Switch between tabs.
+SWITCH_TO_TAB_[1-9]  :   [1-9]        :   Switch to a specific tab.
+ADD_NEW_TAB          :   [+]          :   Add a new tab.
+ENTER_DIRECTORY      :   [KEY_RIGHT]  :   Enter the selected directory.
+GO_BACK              :   [KEY_LEFT]   :   Go back to the previous directory.
+SCROLL_DOWN          :   [KEY_DOWN]   :   Scroll down in the current directory.
+SCROLL_UP            :   [KEY_UP]     :   Scroll up in the current directory.
+DELETE_ITEM          :   [DELETE]     :   Delete the selected directory/file.
+COPY_PATH            :   [P]          :   Copy the selected directory/file path.
+OPEN_ITEM            :   [ENTER]      :   Open the selected directory/file.
+COPY                 :   [C]          :   Copy the selected directory/file.
+CUT                  :   [X]          :   Cut the selected directory/file.
+PASTE                :   [V]          :   Paste the copied/cut directory/file.
+RENAME               :   [KEY_F2]     :   Rename the selected directory/file.
+UNDO_ACTION          :   [Z]          :   Undo the last action.
+REDO_ACTION          :   [Y]          :   Redo the last undone action.
+MAKE_FILE            :   [N]          :   Create a new empty file.
+MAKE_DIRECTORY       :   [SHIFT]+[N]  :   Create a new directory.
+SEARCH               :   [F]          :   Search for a directory/file.
+PREVIEW_FILE         :   [SPACE]      :   Preview the selected file.

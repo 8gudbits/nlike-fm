@@ -9,7 +9,7 @@ NLike-FM is a lightweight terminal file manager designed with Nano-style simplic
 Clone the repository:
 
 ```bash
-git clone https://github.com/TechWhizKid/nlike-fm.git
+git clone https://github.com/8gudbits/nlike-fm.git
 ```
 
 Install the required dependencies:
